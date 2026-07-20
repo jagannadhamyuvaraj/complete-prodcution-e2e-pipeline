@@ -4,7 +4,7 @@ pipeline{
     }
     tools {
         maven 'Maven3'
-        docker 'Docker'
+     
         // sonarqube 'sonarqube-scanner'
     }
     environment {
